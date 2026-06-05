@@ -2,6 +2,9 @@
 
 ### AI/ML Engineer | Generative AI Enthusiast | NLP & RAG Developer 🚀
 
+📄 **Resume:** [View My Resume](./assets/Kashish_Gunardia_Resume.pdf)
+
+
 ## 👨‍💻 About Me
 
 I'm a **BCA (Data Science) student** and aspiring **AI/ML Engineer** passionate about building intelligent systems using **Machine Learning, Deep Learning, NLP, Generative AI, and RAG-based architectures**.
