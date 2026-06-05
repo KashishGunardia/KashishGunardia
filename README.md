@@ -2,8 +2,7 @@
 
 ### AI/ML Engineer | Generative AI Enthusiast | NLP & RAG Developer 🚀
 
-📄 **Resume:** [View My Resume](https://raw.githubusercontent.com/KashishGunardia/KashishGunardia/main/assets/Kashish_Gunardia_Resume.pdf)
-
+📄 **Resume:** [View My Resume](https://github.com/KashishGunardia/KashishGunardia/blob/main/assets/Kashish_Gunardia_Resume.pdf)
 
 ## 👨‍💻 About Me
 
