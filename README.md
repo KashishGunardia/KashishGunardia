@@ -6,7 +6,8 @@
 
 I'm a **BCA (Data Science) student** and aspiring **AI/ML Engineer** passionate about building intelligent systems using **Machine Learning, Deep Learning, NLP, Generative AI, and RAG-based architectures**.
 
-I enjoy developing **real-world AI applications**, including **chatbots, intelligent assistants, semantic search systems, and automation workflows** powered by **LLMs, LangChain, LangGraph, and vector databases**.
+Passionate about building **practical AI-driven systems**, including **Retrieval-Augmented Generation (RAG) pipelines, NLP solutions, semantic search systems, intelligent assistants, and LLM-powered applications** using **LangChain, LangGraph, vector databases, and modern AI workflows**.
+
 
 Currently exploring:
 
